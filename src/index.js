@@ -1,4 +1,4 @@
-export default md5 = (str) => {
+const md5 = (str) => {
     /**
      * bitwise left shift or zero fill right shift
      * @param {*} k
@@ -218,3 +218,5 @@ export default md5 = (str) => {
         return i.toLowerCase()
     }
 }
+
+export default md5

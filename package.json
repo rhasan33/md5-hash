@@ -1,6 +1,6 @@
 {
   "name": "md5-hash",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "\"MD5 hashing for string\"",
   "main": "./dist/index.js",
   "scripts": {
